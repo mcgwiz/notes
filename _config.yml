@@ -24,6 +24,7 @@ email: mike@mcgwiz.com
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
+domain: www.mcgwiz.com
 baseurl: /notes # the subpath of your site, e.g. /blog
 url: https://www.mcgwiz.com/notes # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: lunalot
@@ -35,6 +36,9 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+show_downloads: false
+#google_analytics: [Your Google Analytics tracking ID]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
