@@ -59,3 +59,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+author:
+  name: Mike McGranahan
+  email: mike@mcgwiz.com
+
+disqus:
+  shortname: lunalot
