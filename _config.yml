@@ -59,3 +59,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#author:
+#  name: Mike McGranahan
+#  email: mike@mcgwiz.com
+
+disqus:
+  shortname: lunalot
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/mcgwiz" }
+    - { platform: linkedin,  user_url: "https://linkedin.com/in/mikemcgranahan" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/29805/g-wiz?tab=profile" }
