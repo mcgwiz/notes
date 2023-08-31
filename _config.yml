@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Notes by Mike McGranahan
-email: mike@mcgwiz.com
+#email: mike@mcgwiz.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -28,7 +28,7 @@ domain: notes.mcgwiz.com
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://notes.mcgwiz.com/ # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: lunalot
-github_username:  mcgwiz
+#github_username:  mcgwiz
 
 # Build settings
 theme: minima
@@ -60,7 +60,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#author:
+author:
 #  name: Mike McGranahan
 #  email: mike@mcgwiz.com
 
