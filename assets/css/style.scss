@@ -2,6 +2,6 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/skins/auto",
   "minima/initialize";
 footer{display:none !important;}
