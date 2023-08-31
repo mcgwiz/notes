@@ -61,8 +61,8 @@ plugins:
 #   - vendor/ruby/
 
 author:
-#  name: Mike McGranahan
-#  email: mike@mcgwiz.com
+  name: ""
+  email: ""
 
 disqus:
   shortname: lunalot
