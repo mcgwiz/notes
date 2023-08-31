@@ -61,8 +61,8 @@ plugins:
 #   - vendor/ruby/
 
 author:
-  name: ""
-  email: ""
+  name: 
+  email: 
 
 disqus:
   shortname: lunalot
