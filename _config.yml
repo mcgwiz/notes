@@ -60,9 +60,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#author:
-#  name: 
-#  email: 
+author:
+  name:  
+  email:  
 
 disqus:
   shortname: lunalot
