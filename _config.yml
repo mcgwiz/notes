@@ -25,7 +25,7 @@ title: Notes by Mike McGranahan
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 domain: notes.mcgwiz.com
-baseurl: / # the subpath of your site, e.g. /blog
+#baseurl: / # the subpath of your site, e.g. /blog
 url: https://notes.mcgwiz.com/ # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: lunalot
 #github_username:  mcgwiz
@@ -60,9 +60,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-author:
-  name: 
-  email: 
+#author:
+#  name: 
+#  email: 
 
 disqus:
   shortname: lunalot
