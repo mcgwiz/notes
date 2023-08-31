@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Notes by Mike McGranahan
+title: Notes
 #email: mike@mcgwiz.com
+description: Mike McGranahan's brain
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -31,7 +32,7 @@ url: https://notes.mcgwiz.com/ # the base hostname & protocol for your site, e.g
 #github_username:  mcgwiz
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 #remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
@@ -61,8 +62,8 @@ plugins:
 #   - vendor/ruby/
 
 author:
-  name:  
-  email:  
+  name: Mike McGranahan
+#  email:  
 
 disqus:
   shortname: lunalot
