@@ -11,7 +11,7 @@ minima:
 permalink: /:slug
 defaults:
   - scope:
-      path: "_posts/0000-00-00-firefox-find-plus-regex-add-on/66e7ce7c1c3d41488a5d-2.2.3.xpi"
+      path: "_posts/66e7ce7c1c3d41488a5d-2.2.3.xpi"
     values:
       permalink: /0000-00-00-firefox-find-plus-regex-add-on/find-plus.xpi
 
