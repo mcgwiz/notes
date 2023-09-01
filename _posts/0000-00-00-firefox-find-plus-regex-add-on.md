@@ -1,5 +1,5 @@
 ---
-date: 2023-09-01
+date: 2023-09-01 12:00:00
 ---
 
 Love 'em (me) or [hate 'em](https://groups.google.com/g/alt.religion.emacs/c/DR057Srw5-c/m/n1WCMEw5iCkJ), regular expressions are useful for finding patterns in text. Some folks (me, formerly) not only have the desire, but also have the time, to write copious amounts of text &ndash; and then publish it on the web. What's a time-constrained, task-focused developer to do when confronted with such a problem? They are to search web pages with regular expressions, of course. (Bet you didn't see that coming.)
