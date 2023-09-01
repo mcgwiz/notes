@@ -1,5 +1,5 @@
 ---
-date: 2023-09-01
+date: 2023-09-01 12:00:01
 ---
 
 C# evolves [fairly often](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history). Many changes enhance existing features, and some fundamentally reshape the language. Functional-style pattern matching falls somewhere in between. They were introduced in C# 7 and were extended in every feature since. Now they comprise a powerful tool in the C# developer's belt, but many developers don't seem too familiar with them (beyond the automated refactorings their IDE suggests).
