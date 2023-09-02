@@ -2,7 +2,7 @@
 date: 2023-09-01 00:00:01
 ---
 
-* c# evolves [quickly](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
+* C# evolves [quickly](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
   * functional-style pattern matching was introduced in version 7
   * feature has expanded with every version since then
   * wanted to learn them better so I could design my code around them rather than let my IDE patch up my code with them
