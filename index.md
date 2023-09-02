@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+/nōt/ _noun_. short records of thoughts to aid memory.
