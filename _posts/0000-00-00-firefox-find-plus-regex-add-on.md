@@ -2,8 +2,8 @@
 date: 2023-09-01 00:00:00
 ---
 
-* Regular expressions are good for finding patterns in text[^1]
-  [^1]: ...As [imperfect](https://groups.google.com/g/alt.religion.emacs/c/DR057Srw5-c/m/n1WCMEw5iCkJ) as they may be
+* Regular expressions are good for finding patterns in text
+  * ...As [imperfect](https://groups.google.com/g/alt.religion.emacs/c/DR057Srw5-c/m/n1WCMEw5iCkJ) as they may be
   * Some people have both the desire and the time to write large amounts of text, which is then published on the web
   * Copious amounts of text are a problem to impatient programmers armed with regular expressions
 * Helpful internet denizen published [browser extensions](https://github.com/brandon1024/find) to search webpages with regular expressions
