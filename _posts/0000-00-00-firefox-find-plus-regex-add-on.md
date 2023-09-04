@@ -13,5 +13,5 @@ date: 2023-09-01 00:00:00
 * tweaked the configuration to use "find+" instead
   * signed Firefox[^2] version can be found [here](/assets/attachments/66e7ce7c1c3d41488a5d-2.2.3.xpi)
 
-[^1]: ..as [imperfect](https://groups.google.com/g/alt.religion.emacs/c/DR057Srw5-c/m/n1WCMEw5iCkJ) as they may be
+[^1]: ...as [imperfect](https://groups.google.com/g/alt.religion.emacs/c/DR057Srw5-c/m/n1WCMEw5iCkJ) as they may be
 [^2]: as a privacy advocate, I use Firefox
