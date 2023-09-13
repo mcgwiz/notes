@@ -1,0 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics respecting DNT -->
+<script>
+    if ([true, 1, '1', 'on', 'yes'].indexOf(navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack) === -1) {
+        let gtagId='{{ site.google_analytics }}', sc=document.createElement('script');
+        sc.async=true;
+        sc.src='https://www.googletagmanager.com/gtag/js?id=' + gtagId;
+        document.head.appendChild(sc);
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', gtagId);
+    }
+</script>
