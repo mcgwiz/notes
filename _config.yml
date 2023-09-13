@@ -10,5 +10,5 @@ disqus:
 minima:
   skin: auto
 permalink: /:slug
-google-analytics: G-7TP79NH91Q
+google_analytics: G-7TP79NH91Q
 tagline: home
